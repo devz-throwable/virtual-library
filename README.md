@@ -90,6 +90,10 @@ And here is the deployed website on GitHub Pages
 
 <https://devz-throwable.github.io/virtual-library/>
 
+to view the rendered web page locally, save
+the file as `index.html` and right click and open
+it in Chrome.
+
 ## Why GitHub
 I use GitHub to simply deploy it. Once it's deployed,
 you can see it anywhere. It's not anymore the local copy
