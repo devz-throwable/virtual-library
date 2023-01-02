@@ -62,9 +62,9 @@ integrate it in the Library ? or maybe
 you will be asked to maintain a site of that
 Library ? or maybe create one, like this ?
 And what if they are the only reasons 
-for you to land a job ? because applying for
-high-paying jobs requires a lot of skills
-because competition and retention is very high.
+for you to land a job ? Because applying for
+high-paying jobs requires a lot of skills,
+competition and retention is very high.
 Seems it's all worth it.
 We would never be able to predict that, 
 the most important thing is you already know
@@ -110,6 +110,6 @@ It's limited free. Once you encounter a feature that you
 want for your site, you need to pay for it. It's not
 highly customizable. On the other hand, 
 using pure web core and frameworks,
-you can exactly do what you want. Another downside is being
+you can do exactly what you want. Another downside is being
 too slow that will discourage users to view your landing
 page, which is a big loss particularly for businesses.
