@@ -10,7 +10,8 @@ with CSS.
 
 ## Rationale
 Tech Management requires us to know at least 
-how things work. Doing a simple hands-on like
+how things work in the Tech field. 
+Doing a simple hands-on like
 this will further enhance it.
 
 Again, this is Web 1.0. If you will be testing
