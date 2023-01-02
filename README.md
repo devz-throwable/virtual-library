@@ -112,10 +112,10 @@ These are your personal
 favorite books that you want to share with others. Originally,
 every thumbnail in that library should be clickable and 
 the user will be redirected to another page, but that 
-will make it very complicated, so just the summary
-of those books will do at the bottom, 
+will make it very complicated, so just the caption
+of those books will do, 
 but according to your personal
-opinion.
+opinion, not the searchable summary of each book.
 
 ## Why GitHub
 I use GitHub to simply deploy it. Once it's deployed,
