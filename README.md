@@ -137,5 +137,6 @@ you can do exactly what you want. Another downside is being
 too slow that will discourage users to view your landing
 page, which is a big loss particularly for businesses.
 
-You don't need to do this deployment anymore. You will
-only submit your `index.html` file.
+As for your submission, you don't need to do this 
+deployment anymore. You will only submit your 
+`index.html` file.
