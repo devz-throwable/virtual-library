@@ -103,7 +103,8 @@ that you can deploy a website
 without knowing much HTML and CSS. The downside ? 
 It's limited free. Once you encounter a feature that you 
 want for your site, you need to pay for it. It's not
-highly customizable, in pure HTML + CSS and frameworks,
+highly customizable. On the other hand, 
+using pure web core and frameworks,
 you can exactly do what you want. Another downside is being
 too slow that will discourage users to view your landing
 page, which is a big loss particularly for businesses.
