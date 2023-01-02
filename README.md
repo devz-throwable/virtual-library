@@ -56,10 +56,12 @@ What if you were asked in the interview
 what you know about tech ? and how do you
 integrate it in the Library ? or maybe
 you will be asked to maintain a site of that
-Library ? or maybe create one, like this.
-And what if they are the only way to get hired
-in that high-paying University, School or even
-in the tech industry ? Seems it's all worth it.
+Library ? or maybe create one, like this ?
+And what if they are the only reasons 
+for you to land a job ? because applying for
+high-paying jobs requires a lot of skills
+because competition and retention is very high.
+Seems it's all worth it.
 We would never be able to predict that, 
 the most important thing is you already know
 it in the first place.
