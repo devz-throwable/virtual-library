@@ -21,7 +21,8 @@ Again, this is Web 1.0. If you will be testing
 this at the mobile browser, you will see
 that it is responding but not fully. Fully
 mobile responsive will require us to use a
-framework, which we are avoiding. Well, it's
+framework, which we are avoiding
+and also JavaScript. Well, it's
 just an advanced one once you know this core.
 Did you know that Bootstrap was developed
 on Twitter, so that Twitter would be 
