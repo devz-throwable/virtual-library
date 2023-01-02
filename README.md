@@ -123,7 +123,7 @@ you can see it anywhere. It's not anymore the local copy
 of your development. 
 
 It's one feature of GitHub and it's called GitHub Pages.
-Mostly this is being used for landing pages and documentations,
+Mostly, this is being used for landing pages and documentations,
 even mini-blogging. And it's free. 
 
 You also have other CMS ( like WordPress and Wix ) 
