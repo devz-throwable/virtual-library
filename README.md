@@ -6,7 +6,8 @@ about knowing how things work like
 protocols, browsers and passing of data
 from a user request, the server will respond
 and will give the page through HTML together
-with CSS.
+with CSS, the browser will render it
+and boom ... you now have an elegant website.
 
 ## Rationale
 Tech Management requires us to know at least 
