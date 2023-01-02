@@ -1,4 +1,4 @@
-# Virtual Library
+# Virtual Library Web 1.0
 This is a sample virtual library for the course 
 Tech Management. This is the way to implement
 Web 1.0. It's not about development, it's
