@@ -99,6 +99,18 @@ done designing your own, upload it publicly and
 simply get the image address, paste it at the 
 intended target and you're done.
 
+The Gallery, as you can see, only has three, I will
+be requiring you to have 9, so you will be needing to have
+another 2 rows below containing 3 columns.
+These are your personal
+favorite books that you want to share with others. Originally,
+every thumbnail in that library should be clickable and 
+the user will be redirected to another page, but that 
+will make it very complicated, so just the summary
+of those books will do at the bottom, 
+but according to your personal
+opinion.
+
 ## Why GitHub
 I use GitHub to simply deploy it. Once it's deployed,
 you can see it anywhere. It's not anymore the local copy
@@ -118,3 +130,6 @@ using pure web core and frameworks,
 you can do exactly what you want. Another downside is being
 too slow that will discourage users to view your landing
 page, which is a big loss particularly for businesses.
+
+You don't need to do this deployment anymore. You will
+only submit your `index.html` file.
