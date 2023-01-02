@@ -68,7 +68,10 @@ competition and retention is very high.
 Seems it's all worth it.
 We would never be able to predict that, 
 the most important thing is you already know
-it in the first place.
+it in the first place. I would never be
+hired as a software developer outside
+the teaching field if I did not acquire
+my these skills too.
 
 ## Steps
 Click the `index.html` and click view `raw`.
