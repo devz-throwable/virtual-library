@@ -71,7 +71,7 @@ the most important thing is you already know
 it in the first place. I would never be
 hired as a software developer outside
 the teaching field if I did not acquire
-my these skills too.
+these skills too.
 
 ## Steps
 Click the `index.html` and click view `raw`.
@@ -103,8 +103,8 @@ simply get the image address, paste it at the
 intended target and you're done.
 
 The Gallery, as you can see, only has three, I will
-be requiring you to have 9, so you will be needing to have
-another 2 rows below containing 3 columns.
+be requiring you to have 9, so you will need to have
+another 2 rows containing 3 columns.
 These are your personal
 favorite books that you want to share with others. Originally,
 every thumbnail in that library should be clickable and 
