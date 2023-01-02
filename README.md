@@ -12,7 +12,9 @@ with CSS.
 Tech Management requires us to know at least 
 how things work in the Tech field. 
 Doing a simple hands-on like
-this will further enhance it.
+this will further enhance it. It enhances
+efficiency, reduces costs because we know
+how systems work. 
 
 Again, this is Web 1.0. If you will be testing
 this at the mobile browser, you will see
