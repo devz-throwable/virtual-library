@@ -19,7 +19,7 @@ how systems work.
 Again, this is Web 1.0. If you will be testing
 this at the mobile browser, you will see
 that it is responding but not fully. Fully
-mobile responsive will require us to use 
+mobile responsive will require us to use a
 framework, which we are avoiding. Well, it's
 just an advanced one once you know this core.
 Did you know that Bootstrap was developed
@@ -76,9 +76,9 @@ or online HTML compiler like JSFiddle
 
 https://jsfiddle.net/
 
-personally, I use VS Code for better experience
-because I already have VS Code for software development,
-you can install that too, open it and simply paste it there.
+Personally, I use VS Code for better experience
+because I already have VS Code for software development.
+You can install that too, open it and simply paste it there.
 
 ## Why GitHub
 I use GitHub to simply deploy it. Once it's deployed,
@@ -86,7 +86,7 @@ you can see it anywhere. It's not anymore the local copy
 of your development. 
 
 It's one feature of GitHub and it's called GitHub Pages.
-Mostly this is being used for landing pages and documentations
+Mostly this is being used for landing pages and documentations,
 even mini-blogging. And it's free. 
 
 You also have other CMS ( like WordPress and Wix ) 
