@@ -55,7 +55,7 @@ use it.
 
 Aside from being part of our course topic,
 this is a preparation for your future career.
-What if you were asked in the interview
+What if you are asked in the interview
 what you know about tech ? and how do you
 integrate it in the Library ? or maybe
 you will be asked to maintain a site of that
