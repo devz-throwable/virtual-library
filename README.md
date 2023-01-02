@@ -21,23 +21,26 @@ Again, this is Web 1.0. If you will be testing
 this at the mobile browser, you will see
 that it is responding but not fully. Fully
 mobile responsive will require us to use a
-framework, which we are avoiding
-and also JavaScript. Well, it's
+framework (and also JavaScript), 
+which we are avoiding. Well, it's
 just an advanced one once you know this core.
+
 Did you know that Bootstrap was developed
-on Twitter, so that Twitter would be 
+by a team in Twitter, so that Twitter would be 
 fully mobile-responsive as we are using it 
-today ? But there is an alternative lightweight
+today ? That's how hard it is to achieve
+the mobile responsiveness.
+But there is an alternative lightweight
 framework for that, if you still want to pursue
-this personally, the W3.CSS.
+this personally, the W3.CSS
 
 https://www.w3schools.com/w3css/defaulT.asp
 
-Web 1.0 really fits in the landing pages
+Web 1.0 really fits for the landing pages
 of businesses or schools, like the samples
 I presented last time. Even the PNU Library
-landing page is a static website. It's cost-effective
-and easy to be maintained.
+landing page is a static website. It's cost-effective,
+easy to be maintained and lightweight.
 
 Web 2.0, on the other hand, will require
 server-side scripting and doing CRUD
