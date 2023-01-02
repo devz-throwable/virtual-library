@@ -79,3 +79,22 @@ https://jsfiddle.net/
 personally, I use VS Code for better experience
 because I already have VS Code for software development,
 you can install that too, open it and simply paste it there.
+
+## Why GitHub
+I use GitHub to simply deploy it. Once it's deployed,
+you can see it anywhere. It's not anymore the local copy
+of your development. 
+
+It's one feature of GitHub and it's called GitHub Pages.
+Mostly this is being used for landing pages and documentations
+even mini-blogging. And it's free. 
+
+You also have other CMS ( like WordPress and Wix ) 
+that you can deploy a website
+without knowing much HTML and CSS. The downside ? 
+It's limited free. Once you encounter a feature that you 
+want for your site, you need to pay for it. It's not
+highly customizable, in pure HTML + CSS and frameworks,
+you can exactly do what you want. Another downside is being
+too slow that will discourage users to view your landing
+page, which is a big loss particularly for businesses.
