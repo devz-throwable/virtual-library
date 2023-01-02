@@ -94,6 +94,11 @@ to view the rendered web page locally, save
 the file as `index.html` and right click and open
 it in Chrome.
 
+To customize your own images and gifs, once you are
+done designing your own, upload it publicly and 
+simply get the image address, paste it at the 
+intended target and you're done.
+
 ## Why GitHub
 I use GitHub to simply deploy it. Once it's deployed,
 you can see it anywhere. It's not anymore the local copy
