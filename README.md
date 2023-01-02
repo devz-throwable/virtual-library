@@ -85,6 +85,10 @@ Personally, I use VS Code for better experience
 because I already have VS Code for software development.
 You can install that too, open it and simply paste it there.
 
+And here is the deployed website on GitHub Pages
+
+<https://devz-throwable.github.io/virtual-library/>
+
 ## Why GitHub
 I use GitHub to simply deploy it. Once it's deployed,
 you can see it anywhere. It's not anymore the local copy
