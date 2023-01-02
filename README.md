@@ -31,6 +31,12 @@ this personally, the W3.CSS.
 
 https://www.w3schools.com/w3css/defaulT.asp
 
+Web 1.0 really fits in the landing pages
+of businesses or schools, like the samples
+I presented last time. Even the PNU Library
+landing page is a static website. It's cost-effective
+and easy to be maintained.
+
 Web 2.0, on the other hand, will require
 server-side scripting and fetching stored
 data in a database, the CRUD operations.
@@ -40,7 +46,11 @@ one is
 https://librarika.com/
 
 that uses OPAC and all the services a Library
-can offer.
+can offer. For Web 2.0, you don't need to 
+create your own system, because it's already
+available even for free ( but there is no
+such thing as free ). In short, you simply
+use it.
 
 What if you were asked in the interview
 what you know about tech ? and how do you
