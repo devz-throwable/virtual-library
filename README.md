@@ -39,8 +39,8 @@ landing page is a static website. It's cost-effective
 and easy to be maintained.
 
 Web 2.0, on the other hand, will require
-server-side scripting and fetching stored
-data in a database, the CRUD operations.
+server-side scripting and doing CRUD
+operations in the backend.
 There are so many available websites there, 
 one is 
 
