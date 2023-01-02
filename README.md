@@ -70,7 +70,7 @@ high-paying jobs requires a lot of skills,
 competition and retention is very high.
 Seems it's all worth it.
 We would never be able to predict that, 
-the most important thing is you already know
+the most important thing is you already knew
 it in the first place. I would never be
 hired as a software developer outside
 the teaching field if I did not acquire
