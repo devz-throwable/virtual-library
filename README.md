@@ -20,6 +20,14 @@ that it is responding but not fully. Fully
 mobile responsive will require us to use 
 framework, which we are avoiding. Well, it's
 just an advanced one once you know this core.
+Did you know that Bootstrap was developed
+on Twitter, so that Twitter would be 
+fully mobile-responsive as we are using it 
+today ? But there is an alternative lightweight
+framework for that, if you still want to pursue
+this personally, the W3.CSS.
+
+https://www.w3schools.com/w3css/defaulT.asp
 
 Web 2.0, on the other hand, will require
 server-side scripting and fetching stored
